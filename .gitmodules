@@ -61,3 +61,6 @@
 [submodule "MitmFuzzer"]
 	path = MitmFuzzer
 	url = https://github.com/moloch--/MitmFuzzer
+[submodule "LANs.py"]
+	path = LANs.py
+	url = https://github.com/DanMcInerney/LANs.py
