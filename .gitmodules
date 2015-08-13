@@ -1,0 +1,63 @@
+[submodule "bettercap"]
+	path = bettercap
+	url = https://github.com/evilsocket/bettercap
+[submodule "bettercap-proxy-modules"]
+	path = bettercap-proxy-modules
+	url = https://github.com/evilsocket/bettercap-proxy-modules
+[submodule "MITMf"]
+	path = MITMf
+	url = https://github.com/byt3bl33d3r/MITMf
+[submodule "mitmflib"]
+	path = mitmflib
+	url = https://github.com/byt3bl33d3r/mitmflib
+[submodule "mitmproxy"]
+	path = mitmproxy
+	url = https://github.com/mitmproxy/mitmproxy
+[submodule "Responder"]
+	path = Responder
+	url = https://github.com/SpiderLabs/Responder
+[submodule "cooperpair"]
+	path = cooperpair
+	url = https://github.com/coruus/cooperpair
+[submodule "mallory"]
+	path = mallory
+	url = https://github.com/intrepidusgroup/mallory
+[submodule "FakeDns"]
+	path = FakeDns
+	url = https://github.com/Crypt0s/FakeDns
+[submodule "BDFProxy"]
+	path = BDFProxy
+	url = https://github.com/secretsquirrel/BDFProxy
+[submodule "wifiphisher"]
+	path = wifiphisher
+	url = https://github.com/sophron/wifiphisher
+[submodule "rdps2rdp"]
+	path = rdps2rdp
+	url = https://github.com/DiabloHorn/rdps2rdp
+[submodule "mitmproxy-servers"]
+	path = mitmproxy-servers
+	url = https://github.com/saironiq/mitmproxy
+[submodule "MITMer"]
+	path = MITMer
+	url = https://github.com/husam212/MITMer
+[submodule "dnschef"]
+	path = dnschef
+	url = https://github.com/iphelix/dnschef
+[submodule "ghost-phisher"]
+	path = ghost-phisher
+	url = https://github.com/savio-code/ghost-phisher
+[submodule "the-backdoor-factory"]
+	path = the-backdoor-factory
+	url = https://github.com/secretsquirrel/the-backdoor-factory
+[submodule "mana"]
+	path = mana
+	url = https://github.com/sensepost/mana
+[submodule "mitmprotector"]
+	path = mitmprotector
+	url = https://github.com/JanHelbling/mitmprotector
+[submodule "MitmFuzz"]
+	path = MitmFuzz
+	url = https://github.com/0x9090/MitmFuzz/
+[submodule "MitmFuzzer"]
+	path = MitmFuzzer
+	url = https://github.com/moloch--/MitmFuzzer
